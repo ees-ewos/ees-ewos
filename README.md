@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there! 👋  
+
+#### 👀 I'm ees-ewos 
+- a girl with a love for maths, problem-solving, and learning new things every day
+- aspiring to dive deep into the world of **Computer Science** and explore the endless possibilities it offers
+
+when I’m not studying, I’m probably listening to K-pop...
+
+#### my goals
+- grow as a computer scientist
+- never stop exploring new ideas and skills
+
+thank you for stopping by 🌈 have a wonderful day 🫶
 
 <!--
 **ees-ewos/ees-ewos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
