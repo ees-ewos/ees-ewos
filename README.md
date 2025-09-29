@@ -1,10 +1,9 @@
 ### Hi there! 👋  
 
 #### 👀 I'm ees-ewos 
-- a girl with a love for maths, problem-solving, and learning new things every day
-- aspiring to dive deep into the world of **Computer Science** and explore the endless possibilities it offers
+- a girl in Computer Science
 
-when I’m not studying, I’m probably listening to K-pop...
+when I’m not studying, I’m probably listening to K-pop or J-pop...
 
 #### my goals
 - grow as a computer scientist
