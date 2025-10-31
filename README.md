@@ -1,13 +1,6 @@
-### Hi there! 👋  
-
-#### 👀 I'm ees-ewos 
-- a girl in Computer Science
+i'm ees-ewos, a girl in computer science
 
 when I’m not studying, I’m probably listening to K-pop or J-pop...
-
-#### my goals
-- grow as a computer scientist
-- never stop exploring new ideas and skills
 
 thank you for stopping by 🌈 have a wonderful day 🫶
 
